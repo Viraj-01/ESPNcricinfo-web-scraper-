@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# CSV data files
+# *.csv
+
+# Images (screenshots, error logs)
+*.png
+*.jpeg
+*.jpg
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
